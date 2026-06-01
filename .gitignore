@@ -1,4 +1,7 @@
 __pycache__/
 .vscode/
 image-matching-challenge-2025/
+mast3r/
 pipline.PNG
+.venv/
+start_venv.ps1
