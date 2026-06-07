@@ -5,3 +5,5 @@ mast3r/
 pipline.PNG
 .venv/
 start_venv.ps1
+*.pth
+models/
