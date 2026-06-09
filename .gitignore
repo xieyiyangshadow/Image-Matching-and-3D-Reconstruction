@@ -2,8 +2,12 @@ __pycache__/
 .vscode/
 image-matching-challenge-2025/
 mast3r/
+asmk/
 pipline.PNG
 .venv/
 start_venv.ps1
 *.pth
-models/
+models/*
+output/*
+checkpoints/*
+essay.md
